@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-image:url(../img/R\ \(2\).jpeg);
+    height: 120px;
+    width: 120px;
+    background-repeat: no-repeat;
+}
+.bienvenue{
+    display: flex;
+    margin: 25px ;
+    height: 125px;
+    width: 150px;
+    padding-left: 0%;
+    color:black;
+}
+
+.myaccount{
+    display: flex;
+    -ms-flex-align: center;
+    color:black;
+    justify-content: space-between;
+}
+article div span{
+    display:contents;
+    display:flexbox;
+    justify-content: contain;
+    margin: 50px;
+    padding-left: 100%;
+    text-align: left;
+    color:black;
+}
+
+table{
+    width: 800px;
+    height: 50px;
+    margin: 200px;
+    align-content: center;
+}
+
+
+
+
+footer{
+    display: flex;
+    
+    position:absolute;
+    
+    bottom:0;
+    
+    width:100%;
+    
+    padding-top:50px;
+    
+    height:50px;
+}
+
+
+.FAQ{
+    display: flex;
+    color:red;
+    width: 200px;
+    justify-content: space-between;
+    }
